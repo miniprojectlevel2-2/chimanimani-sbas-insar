@@ -1,0 +1,18 @@
+# Core InSAR / geospatial stack
+mintpy
+numpy
+scipy
+matplotlib
+h5py
+gdal
+rasterio
+
+# Data access
+asf_search
+
+# Analysis / anomaly detection
+pandas
+scikit-learn
+
+# Notebooks
+jupyter
