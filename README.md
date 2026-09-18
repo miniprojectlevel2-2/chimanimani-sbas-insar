@@ -30,11 +30,11 @@ chimanimani-sbas-insar/
 
 ## Team
 
-| Name | Role |
+| Name | RegNo|
 |---|---|
-| Romeo Thando Dube | InSAR processing & anomaly detection modelling |
-| _(fill in)_ | Data acquisition & area preparation |
-| _(fill in)_ | Validation & report writing |
+| Romeo Thando Dube | R252000T |
+| Tamirirashe Machavunga | R249612E |
+| Mpho Mundanda | R245556E |
 
 ## Documents
 
