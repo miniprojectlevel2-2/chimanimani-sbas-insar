@@ -35,6 +35,7 @@ chimanimani-sbas-insar/
 | Romeo Thando Dube | R252000T |
 | Tamirirashe Machavunga | R249612E |
 | Mpho Mundanda | R245556E |
+| Panashe Runatsa | R256411Y |
 
 ## Documents
 
